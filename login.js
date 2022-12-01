@@ -9,7 +9,7 @@ app.use("/assets",express.static("assets"));
 const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "deepu",
+    password: "1234",
     database: "nodejs"
 });
 
